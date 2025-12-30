@@ -104,7 +104,8 @@
 
 ## 📸 界面预览 (Screenshots)
 
-![](images/win.png)
+![](image/win.png)
+![](image/demon.png)
 
 
 ---
